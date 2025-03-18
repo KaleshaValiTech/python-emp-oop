@@ -62,10 +62,10 @@ class Intern(Employee):
 
 print("Welcome to Employee Management System")
 print("Available Options:")
-print("1️. Add Permanent Employee")
-print("2️. Add Contract Employee")
-print("3️. Add Intern")
-print("4️. View All Employees")
+print("1️⃣ Add Permanent Employee")
+print("2️⃣ Add Contract Employee")
+print("3️⃣ Add Intern")
+print("4️⃣ View All Employees")
 
 employees = []
 
